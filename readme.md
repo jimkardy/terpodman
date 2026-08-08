@@ -1,6 +1,8 @@
 # terpodman
 
 Podman for Termux. Run real OCI containers on any non-rooted Android phone.
+WARN, it's still in beta, always use the one linear or the latest binarys!!! 
+Also deleting, uninstalling the packages must be done manually for now. 
 
 ```
 terpodman pull alpine
