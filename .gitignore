@@ -1,0 +1,29 @@
+```
+# Compiled and build artifacts
+*.o
+*.obj
+*.out
+terpodman
+
+# Dependencies
+go.mod
+go.sum
+vendor/
+
+# Logs and temp files
+*.log
+*.tmp
+
+# Environment
+.env
+.env.local
+.env.*
+
+# Editors
+.vscode/
+.idea/
+*.swp
+
+# Build directories
+bin/
+```
